@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46e25bfa-6c63-48c8-adb5-7a7f7843c81f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/erosion/ImageStore.py" beforeDir="false" afterPath="$PROJECT_DIR$/erosion/ImageStore.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="46e25bfa-6c63-48c8-adb5-7a7f7843c81f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +94,27 @@
       <option name="presentableId" value="Default" />
       <updated>1589229427775</updated>
     </task>
+    <task id="LOCAL-00001" summary="proyectoMejorado">
+      <created>1589435140737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589435140737</updated>
+    </task>
+    <task id="LOCAL-00002" summary="proyectoMejor">
+      <created>1589435191079</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589435191079</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="proyectoMejorado" />
+    <MESSAGE value="proyectoMejor" />
+    <option name="LAST_COMMIT_MESSAGE" value="proyectoMejor" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="41" key="#Inspections" timestamp="1589434201405">
@@ -109,10 +125,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="774" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1589233234728" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1589432686255">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1589435190030">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589432686255" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589435190030" />
     <state width="1344" height="238" key="GridCell.Tab.0.bottom" timestamp="1589434992450">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
