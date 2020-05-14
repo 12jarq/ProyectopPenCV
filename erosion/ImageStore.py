@@ -20,3 +20,4 @@ class ImageStore:
     def save_img(img, name_img):
         name_img = name_img + ".png"
         cv2.imwrite(name_img, img)
+
